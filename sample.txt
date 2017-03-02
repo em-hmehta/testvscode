@@ -3,3 +3,6 @@ so do i
 and this is for BR2
 i am checkin in.
 new changes in BR2
+I have changed this for branch1
+This is another change
+this is new from BR1
